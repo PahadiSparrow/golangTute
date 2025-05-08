@@ -19,3 +19,7 @@ func TagVer2() {
 func TagVer3() string {
 	return "This is tagged version 1.3.0"
 }
+
+func TagVer4() string {
+	return "This is tagged version 1.3.0"
+}
