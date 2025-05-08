@@ -8,6 +8,10 @@ func Barks() string {
 	return "woo woooo"
 }
 
-func TagVer() {
+func TagVer1() {
 	fmt.Println("This is tagged version 1.0.0")
+}
+
+func TagVer2() {
+	fmt.Println("This is tagged version 1.2.0")
 }
