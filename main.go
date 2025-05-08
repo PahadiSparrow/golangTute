@@ -34,4 +34,5 @@ func main() {
 	fmt.Printf("%v %v \n", m, n)
 	fmt.Println(puppy.Barks())
 	fmt.Println(puppy.Category)
+	fmt.Println(puppy.TagVer3())
 }

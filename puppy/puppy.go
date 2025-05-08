@@ -16,6 +16,6 @@ func TagVer2() {
 	fmt.Println("This is tagged version 1.2.0")
 }
 
-func TagVer3() {
-	fmt.Println("This is tagged version 1.3.0")
+func TagVer3() string {
+	return "This is tagged version 1.3.0"
 }
