@@ -1,0 +1,10 @@
+https://nleiva.medium.com/learn-go-45d4b9c177c7
+
+https://www.boot.dev/lessons/a1eae01c-0a40-47d5-9b98-94fe48199073
+
+https://www.go-on-aws.com/getting_started/
+
+https://golangbot.com/golang-tutorial-part-1-introduction-and-installation/
+
+https://exercism.org/tracks/go
+
